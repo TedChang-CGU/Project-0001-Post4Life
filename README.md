@@ -1,0 +1,7 @@
+# Project-0001-Post4Life   
+Post-It Fo' Lyfe 2.0
+
+This Post-It Fo' Lyfe 2.0 is built with HTML, CSS, JavaScript, and jQuery.
+
+jQuery plugin Reference:
+https://postitall.txusko.com/plugin.html
